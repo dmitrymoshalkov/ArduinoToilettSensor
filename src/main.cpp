@@ -57,7 +57,7 @@ byte mac[] = {
 };
 
 
-const char MQTTserver[]  = {"192.168.100.124"};
+const char MQTTserver[]  = {"192.168.100.110"};
 const char MQTTuser[]  = {"openhabian"};
 const char MQTTpwd[]  = {"damp19ax"};
 const char MQTTClientID[]  = {"toiletpres"};
